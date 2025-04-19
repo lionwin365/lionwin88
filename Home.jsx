@@ -1,0 +1,1 @@
+export function Home() { return <div className="p-4">Welcome to LionWin88</div>; }
